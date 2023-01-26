@@ -4,10 +4,6 @@
 ## 💬 About me:
 My name is Sara Choi, I live in Los Angeles, and I am a Full-Stack Web Developer who enjoys solving challenging problems. Learning programming has been the most challenging and fulfulling decision in my life and my goal is to keep learning more. In my free time, I like learning new languages and watching k-dramas.
 
-## 👨‍💻 Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraysc&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraysc)](https://github.com/saraysc/github-readme-stats)
-
 ## 💻 Tech and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,3 +24,8 @@ My name is Sara Choi, I live in Los Angeles, and I am a Full-Stack Web Developer
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarayschoi/)](https://www.linkedin.com/in/sarayschoi/)
 ![Gmail Badge](https://img.shields.io/badge/sarayschoi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+
+## 👨‍💻 Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraysc&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraysc)](https://github.com/saraysc/github-readme-stats)
