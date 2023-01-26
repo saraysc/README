@@ -25,5 +25,5 @@ My name is Sara Choi. I am a Full-Stack Web Developer who enjoys coding and solv
 
 ## 📬 Let's Connect!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarayschoi/)](https://www.linkedin.com/in/sarayschoi/)
-[![Gmail Badge](https://img.shields.io/badge/sarayschoi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+https://img.shields.io/badge/sarayschoi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
