@@ -24,3 +24,4 @@ My name is Sara Choi. I am a Full-Stack Web Developer who enjoys coding and solv
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💼 Let's Connect!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarayschoi/)](https://www.linkedin.com/in/sarayschoi/)
