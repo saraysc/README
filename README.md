@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A92BF&width=435&lines=Welcome+to+my+github!" alt="Typing SVG" /></a>
 
 ## 💬 About me:
-My name is Sara Choi, I live in Los Angeles, and I am a Full-Stack Web Developer who enjoys solving challenging problems. Learning programming has been the most challenging and fulfulling decision in my life and my goal is to keep learning more. Outside of coding, I like learning new languages and watching k-dramas.
+My name is Sara Choi, I live in Los Angeles, and I am a Full-Stack Web Developer who enjoys solving challenging problems. Learning programming has been the most challenging and fulfulling decision in my life and my goal is to keep learning more. In my free time, I like learning new languages and watching k-dramas.
 
 ## 👨‍💻 Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraysc&show_icons=true&theme=radical)
