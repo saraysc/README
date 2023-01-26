@@ -1,11 +1,13 @@
 # Hello!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A92BF&width=435&lines=Welcome+to+my+github!" alt="Typing SVG" /></a>
 
+# 💬 About me:
 My name is Sara Choi. I am a Full-Stack Web Developer who enjoys coding and solving challenging problems. 
 
+# 👨‍💻 Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraysc&show_icons=true&theme=radical)
 
-# Tech and Tools:
+# 💻 Tech and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,3 +23,4 @@ My name is Sara Choi. I am a Full-Stack Web Developer who enjoys coding and solv
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# 💼 Let's Connect!
