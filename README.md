@@ -28,4 +28,4 @@ My name is Sara Choi, I live in Los Angeles, and I am a Full-Stack Web Developer
 ## 👨‍💻 Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraysc&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraysc&layout=compact)](https://github.com/saraysc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraysc&layout=compact&theme=radical)](https://github.com/saraysc/github-readme-stats)
